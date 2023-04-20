@@ -1,0 +1,31 @@
+<resources>
+    <string name="app_name">Lab9-000776331</string>
+    <string name="open">\"Drawer Is Open\"</string>
+    <string name="close">Drawer Is Closed</string>
+    <string name="AndroidDev">COMP-10073</string>
+    <string name="AdvNet">COMP-10068</string>
+    <string name="OracleSQL">COMP10126</string>
+    <string name="AdvNetTitle">Advanced Programming in .NET</string>
+    <string name="AndroidDevTitle">Android Application Development</string>
+    <string name="OracleSQLTitle">Oracle SQL Programming</string>
+    <string name="OracleDescription">Explore advanced topics in SQL, including functions, subqueries and complex joins. Assemble PL/SQL statements into useful blocks of code. Demonstrate an understanding of general programming structures, conditional control, iterative control and error handling. Additional topics will include cursor, triggers, procedures, functions and packages.</string>
+    <string name="AndroidDevDescription">This programming course is an introduction to Android Application Development using Java. Previous experience with Java programming is required. A handset is not required as we will be using the freely available emulator to run our code. Topics will include, but are not limited to, all common UI controls, layouts, views, navigation, dealing with different screen sizes, internationalization, animation, sending messages with intents, sharing data between applications, advanced API’s and Google Analytics.</string>
+    <string name="AdvNetDescription">Apply advanced programming concepts in .NET Core including: Language Integrated Query (LINQ) and Lambda functions, reflection, attributes, serialization, asynchronous programming and multi-threading. Examine and apply some helpful design patterns to build more robust and scalable applications. Use the debugger effectively to identify and fix bugs more efficiently and to develop higher quality applications faster.</string>
+    <string-array name="AdvancedNet">
+        <item>@string/AdvNetTitle</item>
+        <item>@string/AdvNet</item>
+        <item>@string/AdvNetDescription</item>
+    </string-array>
+    <string-array name="OracleSQL">
+        <item>@string/OracleSQLTitle</item>
+        <item>@string/OracleSQL</item>
+        <item>@string/OracleDescription</item>
+    </string-array>
+    <string-array name="AndroidDevelopment">
+        <item>@string/AndroidDevTitle</item>
+        <item>@string/AndroidDev</item>
+        <item>@string/AndroidDevDescription</item>
+    </string-array>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>
